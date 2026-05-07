@@ -88,13 +88,13 @@ Before running the project, install the following:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/oodsystem/University-IT-Asset-Management.git
+git clone https://github.com/oodsystem/blockchain-it-asset-management.git
 ```
 
 ## Navigate to Project Directory
 
 ```bash
-cd University-IT-Asset-Management
+cd blockchain-it-asset-management
 ```
 
 ---
