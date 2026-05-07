@@ -238,12 +238,11 @@ This project demonstrates:
 - Mobile application support
 
 ---
-
 # 👨‍💻 Author
 
 Developed and maintained by:
 
-**Your Name**
+**Mubasshir Mahmood**
 
 GitHub: https://github.com/oodsystem
 
